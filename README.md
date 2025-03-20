@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Isabel 👋
 
-<!--
-**Isbl277/Isbl277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante interesado en **ciberseguridad** y **bases de datos**. Conocimientos en **Python**, **Java**, **C++** y **MySQL**.
 
-Here are some ideas to get you started:
+## Mis intereses:
+- 💻 Ciberseguridad
+- 📊 Bases de datos
+- 🔐 Protección de sistemas y datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conocimientos:
+- **Python**: Scripts, automatización, análisis de datos.
+- **Java**: Desarrollo de aplicaciones orientadas a objetos.
+- **C++**: Programación de alto rendimiento, optimización.
+- **MySQL**: Diseño de bases de datos, consultas, optimización de rendimiento.
+
+
+¡Gracias por visitar mi perfil! 😊
